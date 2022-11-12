@@ -32,20 +32,20 @@ const Contact = () => {
           <article className="contact__option">
             <HiMail className='contact__option-icon'/>
             <h4>Email</h4>
-            <h5>dummy@asu.edu</h5>
-            <a href="mailto:dummy@asu.edu" target="_blank">Send a message</a>
+            <h5>rajabhirajusa@gmail.com</h5>
+            <a href="mailto:rajabhirajusa@gmail.com" target="_blank" rel="noreferrer">Send a message</a>
           </article>
           <article className="contact__option">
             <SiMessenger className='contact__option-icon'/>
             <h4>Messenger</h4>
             <h5>messengerId</h5>
-            <a href="https://m.me/username" target="_blank">Send a message</a>
+            <a href="https://ig.me/m/abhiraj002" target="_blank" rel="noreferrer">Send a message</a>
           </article>
           <article className="contact__option">
             <RiWhatsappFill className='contact__option-icon'/>
             <h4>WhatsApp</h4>
-            <h5>+1*********</h5>
-            <a href="https://api.whatsapp.com/send?phone=+1*********" target="_blank">Send a message</a>
+            <h5>+1-602-632-9282</h5>
+            <a href="https://wa.me/16026329282/" target="_blank" rel="noreferrer">Send a message</a>
           </article>
         </div>
         {/* END OF CONTACT OPTIONS */}

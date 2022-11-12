@@ -9,16 +9,22 @@
     aspect-ratio: 1/1;
     border-radius: 2rem;
     background: linear-gradient(45deg, transparent, var(--color-primary), transparent);
+    /* background: url('../../Assets/profile.jpg'); */
     display: grid;
     place-items: center;
 }
 
 .about__me-image {
     height: 100%;
+    width: 100%;
     border-radius: 2rem;
     overflow: hidden;
     transform: rotate(-10deg);
     transition: var(--transition);
+}
+
+.about__me-image img {
+    height: 120%;
 }
 
 .about__me-image:hover {

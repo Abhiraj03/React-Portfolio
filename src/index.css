@@ -39,7 +39,8 @@ body {
     background: var(--color-bg);
     color: var(--color-white);
     line-height: 1.7;
-    background-image: url("./Assets/background.jpg");
+    /* background: url("./Assets/background.jpg") no-repeat center center fixed; */
+    background-color: black;
 }
 
 /* ===================== GENERAL STYLES =================== */
