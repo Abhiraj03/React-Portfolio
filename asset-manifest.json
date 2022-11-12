@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/React-Portfolio/static/css/main.b817e996.css",
+    "main.js": "/React-Portfolio/static/js/main.e8e43b4f.js",
+    "static/media/SeaProfile.jpg": "/React-Portfolio/static/media/SeaProfile.35fe613915c51dd2909c.jpg",
+    "static/media/E_Learning_Lab.png": "/React-Portfolio/static/media/E_Learning_Lab.112a6739647ac6b80150.png",
+    "static/media/Candy_Time.png": "/React-Portfolio/static/media/Candy_Time.68354f3bc31348e47a40.png",
+    "static/media/Resume.pdf": "/React-Portfolio/static/media/Resume.f477fa9000a60b7f511e.pdf",
+    "static/media/DungeonTime.png": "/React-Portfolio/static/media/DungeonTime.e3a2e32717bf5fee62f2.png",
+    "static/media/hackerPic.png": "/React-Portfolio/static/media/hackerPic.4139a130dd524bc9a85d.png",
+    "static/media/port6.jpg": "/React-Portfolio/static/media/port6.63766ac864a812e818b9.jpg",
+    "static/media/port4.jpg": "/React-Portfolio/static/media/port4.c23bd5e3a6e0fe3969c7.jpg",
+    "static/media/port5.jpg": "/React-Portfolio/static/media/port5.3e355caf11cc8da7c6c3.jpg",
+    "static/media/client1.jpg": "/React-Portfolio/static/media/client1.9e6b45977d24f669d61d.jpg",
+    "static/media/client3.jpg": "/React-Portfolio/static/media/client3.817ca547ae31257e08fd.jpg",
+    "static/media/client2.jpg": "/React-Portfolio/static/media/client2.274235f6ac5603a45cf9.jpg",
+    "index.html": "/React-Portfolio/index.html",
+    "main.b817e996.css.map": "/React-Portfolio/static/css/main.b817e996.css.map",
+    "main.e8e43b4f.js.map": "/React-Portfolio/static/js/main.e8e43b4f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b817e996.css",
+    "static/js/main.e8e43b4f.js"
+  ]
+}
