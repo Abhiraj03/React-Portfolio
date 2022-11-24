@@ -40,7 +40,7 @@ const About = () => {
         </div>
 
         <p>
-          I'm a sophomore at ASU's Class of 2025, majorining in Computer Science.
+          I'm a sophomore at ASU's Class of 2025, majoring in Computer Science.
           My interests include software/webapp design and development, artifical intelligence, machine learning,
           game development and robotics.<br/>
           Passion for travelling, learning new things each day.
